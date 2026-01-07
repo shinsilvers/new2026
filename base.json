@@ -1,1 +1,7 @@
-https://mehrmusic.info
+{
+  "state": true,
+  "message": "",
+  "data": {
+    "url" : "https://mehrmusic.info/api/"
+  }
+}
